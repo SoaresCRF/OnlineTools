@@ -6,4 +6,4 @@ Site online de algumas ferramentas feitas ultilizando HTML, CSS e JavaScript. Ap
 
 ## Link
 
-Para acessar o site das ferramentas [clique aqui](https://soarescrf.github.io/OnlineTools/){:target="_blank"}.
+Para acessar o site das ferramentas [clique aqui](https://soarescrf.github.io/OnlineTools/){target="_blank"}.
